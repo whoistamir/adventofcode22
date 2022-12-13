@@ -11,3 +11,5 @@ echo "const tlib = require('../tlib');" > p1.js
 echo "const tlib = require('../tlib');" > p2.js
 touch input.txt
 touch input2.txt
+
+cd $DIR
